@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204740209800",
+    "project_id": "waves-of-food-2b531",
+    "storage_bucket": "waves-of-food-2b531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204740209800:android:123987c4fa7537bdaf433d",
+        "android_client_info": {
+          "package_name": "com.muskan.wavesoffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmM8WSGMNbPPvM1DbLKoxFVTGDMIRGxfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
